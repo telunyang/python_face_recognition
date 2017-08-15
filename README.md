@@ -30,6 +30,8 @@ $ pip install opencv_python-3.3.0-cp36-cp36m-win_amd64.whl
 ## 參考資料
 1. [Easy Install OpenCV 3.2 for Python 3.6 / 2.7 on Windows](https://www.scivision.co/install-opencv-python-windows/ "Easy Install OpenCV 3.2 for Python 3.6 / 2.7 on Windows")
 2. [Install OpenCV 3 with Python 3 on Windows](https://www.solarianprogrammer.com/2016/09/17/install-opencv-3-with-python-3-on-windows/ "Install OpenCV 3 with Python 3 on Windows")
+3. [Docs from opencv.org for videos](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_video_display/py_video_display.html "Docs from opencv.org for videos")
+4. [Read, Write and Display a video using OpenCV](https://www.learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/ "Read, Write and Display a video using OpenCV")
 
 ## 範例圖片來源
 [Best free stock photos in one place -- PEXELS](https://www.pexels.com/ "Best free stock photos in one place -- PEXELS")
