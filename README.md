@@ -27,6 +27,11 @@ $ pip install opencv_python-3.3.0-cp36-cp36m-win_amd64.whl
 
 解壓縮後，進入 data 資料夾，將「haarcascades」放到專案的特定資料夾中，以便存取
 
+## 範例圖片
+![example01](https://github.com/telunyang/FaceRecognition/blob/master/example/example01.png)
+![example02](https://github.com/telunyang/FaceRecognition/blob/master/example/example02.png)
+![example03](https://github.com/telunyang/FaceRecognition/blob/master/example/example03.png)
+
 ## 參考資料
 1. [Easy Install OpenCV 3.2 for Python 3.6 / 2.7 on Windows](https://www.scivision.co/install-opencv-python-windows/ "Easy Install OpenCV 3.2 for Python 3.6 / 2.7 on Windows")
 2. [Install OpenCV 3 with Python 3 on Windows](https://www.solarianprogrammer.com/2016/09/17/install-opencv-3-with-python-3-on-windows/ "Install OpenCV 3 with Python 3 on Windows")
@@ -36,5 +41,5 @@ $ pip install opencv_python-3.3.0-cp36-cp36m-win_amd64.whl
 ## 範例圖片來源
 [Best free stock photos in one place -- PEXELS](https://www.pexels.com/ "Best free stock photos in one place -- PEXELS")
 
-## Demo
-[https://www.youtube.com/watch?v=bZM9Snwsv7s](https://www.youtube.com/watch?v=bZM9Snwsv7s "Demo")
+## Demo with camera
+[https://www.youtube.com/watch?v=bZM9Snwsv7s](https://www.youtube.com/watch?v=bZM9Snwsv7s "Demo with camera")
