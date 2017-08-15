@@ -18,7 +18,7 @@ $ pip install opencv_python-3.3.0-cp36-cp36m-win_amd64.whl
 (Ignore)$ pip install opencv_python-3.3.0+contrib-cp36-cp36m-win_amd64.whl
 
 
-2.辨識特徵檔下載位置
+2. 辨識特徵檔下載位置
 
 [Sources Download from OpenCV releases page](http://opencv.org/releases.html "Sources Download from OpenCV releases page")
 
