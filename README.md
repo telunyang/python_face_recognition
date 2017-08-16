@@ -1,5 +1,11 @@
 # Face Recognition from photo or camera
 
+## 開發環境
+1. Windows 10 Professional
+2. Python 3.6
+3. OpenCV 3.3.0
+
+
 ## 前置作業
 1.安裝 OpenCV-Python
 
